@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/1425/knowledge-graph)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/1425/knowledge-graph)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/1425/knowledge-graph)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/1425/knowledge-graph)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/1425/knowledge-graph)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/1425/knowledge-graph)
+
 # Knowledge Graph Memory Server
 
 [![smithery badge](https://smithery.ai/badge/@itseasy21/mcp-knowledge-graph)](https://smithery.ai/server/@itseasy21/mcp-knowledge-graph)
